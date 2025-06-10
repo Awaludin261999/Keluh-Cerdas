@@ -1,0 +1,14 @@
+Flask
+numpy
+pandas
+wordcloud
+tensorflow==2.12
+keras==2.12
+transformers==4.52.4
+gunicorn
+nltk
+demoji
+keybert
+sentence-transformers
+scikit-learn
+regex
