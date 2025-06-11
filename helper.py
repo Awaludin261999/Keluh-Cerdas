@@ -5,6 +5,7 @@ import numpy as np
 import nltk
 import keras
 from transformers import BertTokenizer, TFBertModel
+import tensorflow as tf
 from string import punctuation
 from keybert import KeyBERT
 from nltk.corpus import stopwords
